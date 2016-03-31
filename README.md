@@ -1,1 +1,3 @@
-# ram12
+hello all,
+
+looking for exploring mongoDB.
